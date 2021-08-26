@@ -4,8 +4,8 @@ title: About Me
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+A (very) beliguered UCL student mainly working on medical imagery and neural networks.
 
+Technical CCR cave diver with a soft spot for scientific diving and photogrammetry.
 
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+I own way too many sets of dice and am the kind of person who grinds and weighs their own coffee, because it tastes better and volumetric measurements are for provincial towns on the frontiers of civilisation not a kitchen.

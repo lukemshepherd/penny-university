@@ -1,19 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://lukemshepherd.github.io/penny-university/jupyter/2020/02/20/test.html</loc>
-<lastmod>2020-02-20T00:00:00-06:00</lastmod>
+<loc>https://lukemshepherd.github.io/penny-university/jupyter/2021/09/01/_2020-02-20-test.html</loc>
+<lastmod>2021-09-01T00:00:00-05:00</lastmod>
 </url>
 <url>
-<loc>https://lukemshepherd.github.io/penny-university/markdown/2020/08/27/test-markdown-post.html</loc>
-<lastmod>2020-08-27T00:00:00-05:00</lastmod>
-</url>
-<url>
-<loc>https://lukemshepherd.github.io/penny-university/2021/08/27/test-nbs.html</loc>
-<lastmod>2021-08-27T00:00:00-05:00</lastmod>
-</url>
-<url>
-<loc>https://lukemshepherd.github.io/penny-university/2021/09/03/fastai-chp-0.html</loc>
+<loc>https://lukemshepherd.github.io/penny-university/markdown/2021/09/03/fastai-chp-0.html</loc>
 <lastmod>2021-09-03T00:00:00-05:00</lastmod>
 </url>
 <url>
